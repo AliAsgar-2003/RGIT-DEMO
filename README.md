@@ -1,2 +1,2 @@
 # RGIT-DEMO
-Author Ali Asgar Kazi
+Author Ali Asgar Rgit
